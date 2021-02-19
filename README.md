@@ -1,14 +1,5 @@
 # Final_Project_CS_A51
 
-Ciao ragazzi, volevo consigliarvi questa lezione per imparare le basi
-sull'utilizzo di Git !!
-
-https://cs50.harvard.edu/web/2020/weeks/1/
-
-è un video di circa un'oretta :)
-
-
-
 
 
 
